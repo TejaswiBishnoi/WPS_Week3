@@ -1,0 +1,6 @@
+D:\Workspace\VS\C#\WPS3\WPS3\bin\Debug\WPS3.exe.config
+D:\Workspace\VS\C#\WPS3\WPS3\bin\Debug\WPS3.exe
+D:\Workspace\VS\C#\WPS3\WPS3\bin\Debug\WPS3.pdb
+D:\Workspace\VS\C#\WPS3\WPS3\obj\Debug\WPS3.csprojResolveAssemblyReference.cache
+D:\Workspace\VS\C#\WPS3\WPS3\obj\Debug\WPS3.exe
+D:\Workspace\VS\C#\WPS3\WPS3\obj\Debug\WPS3.pdb
