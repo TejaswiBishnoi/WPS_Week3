@@ -10,11 +10,8 @@ namespace WPS3
     {
         static void Main(string[] args)
         {
-            string D = "aqwertyuio";
-            Console.WriteLine(D.IndexOf('t', 3));
+            Q3.Ques();
             Console.ReadKey();
-            Q2.Question();
-            Console.ReadLine();
         }
     }
 }
