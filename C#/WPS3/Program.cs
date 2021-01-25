@@ -10,7 +10,7 @@ namespace WPS3
     {
         static void Main(string[] args)
         {
-            Q3.Ques();
+            Q4.Ques();
             Console.ReadKey();
         }
     }
