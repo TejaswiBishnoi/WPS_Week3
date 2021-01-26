@@ -10,10 +10,7 @@ namespace WPS3
     {
         static void Main(string[] args)
         {
-            string a = "SexShouldBeFrre";
-            Console.WriteLine(a.IndexOf("Free"));
-            Console.ReadKey();
-            Q5.Ques();
+            Q6.Ques();
             Console.ReadKey();
         }
     }
