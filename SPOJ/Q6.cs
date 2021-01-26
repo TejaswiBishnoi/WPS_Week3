@@ -8,7 +8,7 @@ namespace WPS3
 {
     class Q6
     {
-        public static void Ques()
+        static void Main(string[] args)
         {
             while (1 > 0)
             {
